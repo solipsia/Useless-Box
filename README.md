@@ -1,5 +1,4 @@
 # uselessbox
-# LED Jumper
 ![](screenshots/UselessBox.gif)
 
 <p align="center">
