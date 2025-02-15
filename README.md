@@ -1,4 +1,4 @@
-# uselessbox
+# useless box
 ![](screenshots/UselessBox.gif)
 
 <p align="center">
