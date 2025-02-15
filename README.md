@@ -1,4 +1,4 @@
-# useless box
+# Creature that turns itself off
 ![](screenshots/UselessBox.gif)
 ![](screenshots/UselessBox3D.gif)
 <p align="center">
